@@ -1,0 +1,12 @@
+MONGODB_SERVER = "localhost"
+# MONGODB_SERVER = "ec2-52-43-206-184.us-west-2.compute.amazonaws.com"
+
+MONGODB_PORT = 27017
+
+# IMAGES_PATH = "/home/pablo/Proyectos/otaexpert/leonardo/pycbir/static/dataset"
+
+IMAGES_PATH = "/mnt/xvdb/roomimages"
+#IMAGES_PATH = "/home/pablo/Proyectos/otaexpert/leonardo/images"
+
+FEATURES_PATH = "/mnt/xvdb/roomimages/features"
+# FEATURES_PATH = "/home/pablo/Proyectos/otaexpert/leonardo/features"
